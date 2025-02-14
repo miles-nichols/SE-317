@@ -1,20 +1,4 @@
 INDEX VERSION 1.134+C:\Users\miles\OneDrive - VoilaTech, LLC\Desktop\SE 3170\.metadata\.plugins\org.eclipse.jdt.core
-1591237605.index
-2716377667.index
-2453247911.index
-643611586.index
-3413270776.index
-2141460472.index
-64636671.index
-4082757514.index
-2180807517.index
-1865797976.index
-1746731727.index
-365328673.index
-3850346060.index
-1944108987.index
 2768476762.index
-684002323.index
-420908518.index
-1001507788.index
-2787202089.index
+1007340512.index
+1865797976.index
